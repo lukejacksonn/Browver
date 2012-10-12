@@ -8,12 +8,11 @@ Demo : http://lukejacksonn.com/Projects/browver
 
 Add this to the bottom of the body section of your site and it will prompt really old browsers automatically :
 
-<script src="http://goo.gl/yQRYY" type="text/javascript"></script>
-<script>Browver();</script>
+<code>&lt;script src="http://goo.gl/yQRYY" type="text/javascript">&lt;/script></code><br>
+<code>&lt;script>Browver();&lt;/script></code>
 
 
 You can specify specific browser and version requirements, the following snippet prompts all but the latest bowsers :
 
-<script src="http://goo.gl/yQRYY" type="text/javascript"></script>
-<script>Browver({ ie:9, firefox:15, chrome:24, safari:5, opera:12 });</script>
+<code>Browver({ ie:9, firefox:15, chrome:24, safari:5, opera:12 });</code>
 
