@@ -3,7 +3,7 @@ Browver
 
 A useful JavaScript plugin for developers who like to take advantage of bleeding edge web technologies but don’t have the time to code for (or just couldn’t give a care about) users that refuse to update their browser. The plugin that detects if a browser is too old for a website to function properly if so, it provides the user with direct links to the latest browser downloads.
 
-Demo : http://lukejacksonn.com/Projects/browver
+Demo : http://lukejacksonn.com/Browver
 
 
 Add this to the bottom of the body section of your site and it will prompt really old browsers automatically :
