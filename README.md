@@ -8,7 +8,7 @@ Demo : http://lukejacksonn.com/Browver/page
 
 Add this to the bottom of the body section of your site and it will prompt really old browsers automatically :
 
-<code>&lt;script src="http://goo.gl/yQRYY" type="text/javascript">&lt;/script></code><br>
+<code>&lt;script src="browver.js" type="text/javascript">&lt;/script></code><br>
 <code>&lt;script>Browver();&lt;/script></code>
 
 
